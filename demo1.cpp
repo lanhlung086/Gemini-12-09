@@ -8,5 +8,4 @@ int main(){
 	}else{
 		printf("n la so am");
 	}
-	
 }
